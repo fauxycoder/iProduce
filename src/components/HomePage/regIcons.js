@@ -7,7 +7,7 @@ function RegIcons(props){
         <>
         <div class="ml-6 mb-4 flex items-center mx-96 px-92">
             <div class="w-16 mr-6">
-                <img src = {props.src} />
+                <img src = {props.src} alt ={props.alt}/>
             </div>
             <div class="">
                 <h3 class="font-extrabold mb-3">{props.title}</h3>
