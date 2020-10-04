@@ -19,12 +19,12 @@ function Register(){
                 </div>
                 <div class="mx-96 flex justify-around items-center flex-wrap">
             <RegIcons src={icon} title="Business Advisory Services" text="Access our business advisory and coaching 
-            services for agriprenuers" />
-             <RegIcons src={book} title="Essential Guides" text="Learn about prospective export markets" />
+            services for agriprenuers" alt="icon"/>
+             <RegIcons src={book} title="Essential Guides" text="Learn about prospective export markets" alt="book"/>
              <RegIcons src={calendar} title="Easy feedback sharing" text="Attend our events tailored to build the 
-             capacity of our agriprenuers" />
+             capacity of our agriprenuers" alt="calender"/>
              <RegIcons src={shake} title="Business Deal room" text="Get matched and connect with potential agribusiness
-             partners around the globe" />
+             partners around the globe" alt="shake"/>
                 </div>
         </div>
         </>
